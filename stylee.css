@@ -1,0 +1,14 @@
+body{
+  background-image: url("image1.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+
+#title{
+  display:flex;
+  justify-content:center;
+  font-family:fantasy;
+  font-size: 350%;
+  color:white;
+}
