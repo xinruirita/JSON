@@ -7,12 +7,12 @@ let myJSONDatabase = [
   },
   {
     "title" : "Cake",
-    "favorite_color":"#FABE1F",
+    "favorite_color":"#F8CDDB",
     "flavour":["Chocolate","Cheese","Cream"],
   },
   {
     "title": "Drink",
-    "favorite_color":"#FABE1F",
+    "favorite_color":"#CFDDD2",
     "flavour":["Fruit Tea","Boba Tea","Vanilla Latte"],
   }
 
