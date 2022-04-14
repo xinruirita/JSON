@@ -16,10 +16,9 @@ body{
 .contentItem{
  border: 2px solid white;
  border-radius: 12px;
- padding: 5px;
- border-bottom:10px;
- border-top: 10px;
- border-left:20px;
- border-right:20px;
-
+ margin-top: 50px;
+ margin-bottom: 50px;
+ margin-right: 450px;
+ margin-left: 450px;
+ opacity: 0.8;
 }
