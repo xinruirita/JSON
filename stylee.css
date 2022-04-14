@@ -12,3 +12,14 @@ body{
   font-size: 350%;
   color:white;
 }
+
+.contentItem{
+ border: 2px solid white;
+ border-radius: 12px;
+ padding: 5px;
+ border-bottom:10px;
+ border-top: 10px;
+ border-left:20px;
+ border-right:20px;
+
+}
